@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Pandas](https://img.shields.io/badge/pandas-2.0+-150458.svg)](https://pandas.pydata.org/)
 [![Status](https://img.shields.io/badge/Status-Data%20Cleaning%20Complete-brightgreen.svg)]()
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adarshgaurav1951/Kabaddi-Matches-EDA/blob/main/notebooks/01_cleaning.ipynb)
 
 > **Turning granular, event-level Kabaddi play-by-play logs into tactical, data-backed sports analytics.**
 
@@ -113,17 +112,7 @@ Start the real-time interactive dashboard:
 ```bash
 streamlit run app.py
 ```
-Open **`http://localhost:8501`** in your browser. You can either explore the built-in PKL datasets or **drag & drop any Kabaddi CSV file** to get instant interactive visualizations!
-
-### 5. Run Online via Google Colab
-Click the badge below to open the notebook directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adarshgaurav1951/Kabaddi-Matches-EDA/blob/main/notebooks/01_cleaning.ipynb)
-
-**Alternative direct upload:**
-1. Navigate to [Google Colab](https://colab.research.google.com/).
-2. Click **Upload** $\rightarrow$ select `notebooks/01_cleaning.ipynb`.
-3. Upload the `data/raw/` CSV files to the Colab files pane (`/content/data/raw/`) to run all cleaning cells interactively in the cloud!
+Open **`http://localhost:8501`** in your browser. You can explore the built-in PKL datasets or **drag & drop any Kabaddi CSV file** to get instant interactive visualizations!
 
 ---
 

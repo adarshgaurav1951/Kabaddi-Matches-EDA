@@ -1,0 +1,3 @@
+# Exclude Jupyter Notebook raw JSON/base64 outputs from GitHub language stats
+# This ensures GitHub displays the repository as Python (100%)
+*.ipynb linguist-detectable=false

@@ -40,6 +40,7 @@ Kabaddi Matches EDA/
 │       ├── cleaned_players.csv   # Imputed roles, clean stats (16,892 rows)
 │       └── cleaned_teams.csv     # Snake_case columns, 0-imputed stats (1,368 rows)
 ├── notebooks/
+│   ├── Kabaddi_Matches_EDA_Colab.ipynb # [READY] Standalone modular visual notebook (clean step-by-step cells & charts)
 │   ├── 01_cleaning.ipynb         # [COMPLETED] Data audit, deduplication, type casting & validation
 │   ├── 02_features.ipynb         # [PLANNED] Advanced metrics (strike rates, phase tags, clutch index)
 │   ├── 03_eda.ipynb              # [PLANNED] Univariate, bivariate & multivariate visualizations

@@ -1,0 +1,392 @@
+player_id,player_name,position_name
+197,Pardeep Narwal,Raider
+94,Rishank Devadiga,Raider
+326,Rohit Kumar,Raider
+69,Manjeet Chhillar,All Rounder
+81,Rahul Chaudhari,Raider
+12,Jang Kun Lee,Raider
+320,Nitin Tomar,Raider
+86,Rajesh Narwal,All Rounder
+29,Anup Kumar,Raider
+58,Kashiling Adake,Raider
+41,Deepak Niwas Hooda,All Rounder
+119,CPO Surjeet Singh,Raider
+111,Sukesh Hegde,Raider
+142,Sandeep Narwal,All Rounder
+26,Ajay Thakur,Raider
+261,Rohit Baliyan,Raider
+190,Sonu Narwal,Raider
+318,Pawan Kumar Sehrawat,Raider
+88,Rakesh Kumar,All Rounder
+322,PO Surjeet Singh,"Defender, right cover"
+251,Meraj Sheykh,All Rounder
+51,Jasmer Singh Gulia,All Rounder
+71,Mohit Chhillar,"Defender, right corner"
+234,Surender Singh,Raider
+118,Surjeet Narwal,Raider
+160,Ran Singh,All Rounder
+264,Selvamani K,Raider
+164,Bajirao Hodage,"Defender, right cover"
+174,Deepak Kumar Dahiya,Raider
+42,Dharmaraj Cheralathan,"Defender, right and left corner"
+73,Nilesh Shinde,"Defender, right corner"
+231,Amit Om Prakash Rathi,Raider
+66,Mahesh Goud,Raider
+161,Girish Maruti Ernak,"Defender, left corner"
+157,Ravinder Pahal,"Defender, right corner"
+107,Shrikant Tewthia,All Rounder
+211,Deepak Narwal,Raider
+259,Fazel Atrachali,"Defender, left corner"
+290,Sandeep Kumar Dhull,"Defender, left corner"
+202,Ashish Kumar,"Defender, right cover"
+54,Jeeva Kumar,"Defender, right and left cover"
+207,Sunil,"Defender, left corner"
+309,Manpreet Singh,Raider
+85,Rajesh Mondal,Raider
+163,Mahendra Ganesh Rajput,Raider
+52,Jasvir Singh,Raider
+314,Somvir,"Defender, left cover"
+242,Tushar Patil,Raider
+252,Kuldeep Singh,All Rounder
+311,Anil Kumar,"Defender, left cover"
+272,Umesh Mhatre,Raider
+277,Anil Shriram Nimbolkar,Raider
+249,Hadi Oshtorak,All Rounder
+96,Rohit Rana,"Defender, left cover"
+162,D. Suresh Kumar,"Defender, right cover"
+191,C. Arun,"Defender, left cover"
+70,Manoj Kumar,"Defender, left cover"
+275,Deepak Kumar Rathee,All Rounder
+215,Vinod Kumar,"Defender, left cover"
+217,Rohit Kumar Choudary,Raider
+172,Vinoth Kumar,Raider
+123,Vishal Mane,"Defender, right cover"
+146,Surender Nada,"Defender, left corner"
+200,Mohammad Maghshoudulu,All Rounder
+167,Preetam Chhillar,All Rounder
+288,Rahul Kumar,"Defender, right cover"
+67,Mahipal Narwal,All Rounder
+105,Shabeer Bappu,Raider
+34,Bhupender Singh,All Rounder
+179,Vikas Kale,"Defender, right cover"
+155,Prashanth Kumar Rai,Raider
+108,Shyam Kumar Sah,"Defender, left cover"
+212,Amit Hooda,"Defender, right corner"
+293,Nilesh Salunke,Raider
+44,Gangadhari Mallesh,Raider
+106,Shrikant Jadhav,Raider
+268,Vineet Sharma,Raider
+240,Ravi Kumar,"Defender, right cover"
+245,Yogesh Hooda,Raider
+285,Anil Kashinath Patil,All Rounder
+159,Samarjeet Singh,All Rounder
+278,Gnanasekaran M,"Defender, right corner"
+313,Virender Wazir Singh,Raider
+165,Sachin Shingade,"Defender, left cover"
+156,Pawan Kumar Kadian,Raider
+84,Rajaguru Subramanian,"Defender, right cover"
+46,Gurvinder Singh,Raider
+28,Amit Singh Chhillar,"Defender, left corner"
+13,Seong Ryeol Kim,Defender
+76,Nitin More,"Defender, left cover"
+283,Jagdeesha K.K.,"Defender, right corner"
+72,Navneet Gautam,"Defender, left corner"
+141,Sunil Jaipal,Raider
+184,Deepak Kumar,"Defender, left corner"
+158,Rakesh Singh Kumar,"Defender, left cover"
+147,Prashant Chavan,"Defender, right corner"
+61,Kuldeep Singh,"Defender, left corner"
+299,Sandeep,"Defender, left corner"
+308,Sushil Vijay Bhosle,"Defender, left cover"
+324,Darshan Kadian,Raider
+316,Nirbhay Narwal,"Defender, left corner"
+263,Jay Bahadur Bohara,Raider
+227,Vinoth Paulyas,Raider
+219,K. Prapanjan,Raider
+10,Simon Kibura,Raider
+150,Parmod Narwal,All Rounder
+185,Vijin Thangadurai,"Defender, right cover"
+173,Suresu Kumar,Raider
+181,Deepak Dhull,"Defender, left cover"
+193,Rohit Kumar Prajapat,Raider
+152,D. Gopu,"Defender, right and left corner"
+14,Tae Deok Eom,All Rounder
+79,Pravin Niwale,Raider
+87,Raju Lal Choudhary,"Defender, right corner"
+222,G.S. Manikandan,"Defender, left cover"
+236,T. Prasad,All Rounder
+238,Isac Antony,Raider
+296,Navjot Singh,"Defender, right cover"
+317,Hardeep Duhan,"Defender, right corner"
+315,Parvesh Attri,Raider
+307,Ravinandan G.M.,"Defender, left corner"
+312,Sanju,Raider
+143,Maninder Singh,Raider
+124,Wazir Singh,Raider
+92,Ravi Dalal,Raider
+75,Nitin Madane,Raider
+55,Jitesh Joshi,All Rounder
+56,Kalimuthu Balamahendran,"Defender, left corner"
+168,Mangesh Bhagat,Raider
+98,Sachin Khambe,"Defender, left corner"
+20,Wasim Sajjad,"Defender, right corner"
+45,Gurpreet Singh,"Defender, right corner"
+89,Ram Kumar Sah,"Defender, left cover"
+16,Waleed Al Hasani,Raider
+169,Sagar Khatale,"Defender, right corner"
+32,Balbir Singh,All Rounder
+170,Swapnil Dilip Shinde,"Defender, right cover"
+4,Ehsan Zamani Fard,"Defender, left corner"
+36,Chandran Ranjit,Raider
+53,Jeeva Gopal,"Defender, left cover"
+19,Wajid Ali,All Rounder
+38,Dadaso Balaso Awad,All Rounder
+21,Sinotharan Kanesharajah,Raider
+80,Punit Kumar Teotia,Raider
+68,Mandeep Kumar,Raider
+97,Rupesh Tomar,All Rounder
+151,Vikas Tomar,"Defender, right corner"
+113,Sunil Hanumanthappa,Raider
+23,Dovlet Boshimov,Raider
+77,Parveen Kumar,"Defender, right cover"
+144,Gokul Shitole,"Defender, right corner"
+145,Md. Aruduzzaman Munshi,Raider
+5,Farhad Kamal Gharibi,"Defender, left corner"
+9,Takamitsu Kono,All Rounder
+11,Dong Ju Hong,All Rounder
+17,Atif Waheed,All Rounder
+148,Sunil Subhash Lande,"Defender, right corner"
+388,Monu Goyat,Raider
+757,Sachin,Raider
+300,Abolfazl Maghsodloumahali,Raider
+389,Ajay Kumar,Raider
+791,Nitin Rawal,Defender
+358,Vishal Bhardwaj,All Rounder
+579,Jaideep,"Defender, left corner"
+489,Abozar Mohajermighani,Defender
+745,Vijay,Raider
+366,Vikash Khandola,Raider
+368,Sunil Kumar,"Defender, right cover"
+733,Surender Singh,"Defender, right cover"
+769,Mahender Singh,"Defender, left cover"
+795,Monu,Raider
+764,Vinod Kumar,Raider
+357,Parvesh Bhainswal,"Defender, left cover"
+567,Mohsen Maghsoudloujafari,Raider
+725,Nitesh Kumar,"Defender, right corner"
+387,Vinod Kumar,Raider
+724,Darshan J.,"Defender, right cover"
+361,Sombir,"Defender, right corner"
+686,Rohit Gulia,All Rounder
+718,R. Sriram,Raider
+390,Jawahar Dagar,Raider
+762,Vikas Kumar,Raider
+576,Anand Patil,Raider
+347,Sagar B Krishna,All Rounder
+611,Sidharth,All Rounder
+109,Somvir Shekhar,"Defender, right cover"
+522,Dong Geon Lee,Raider
+722,D. Pradap,All Rounder
+482,Farhad Rahimi Milaghardan,"Defender, right cover"
+773,Satpal,"Defender, right corner"
+734,Vikash,"Defender, right corner"
+372,Harish Naik,Raider
+648,Ajit Singh,Raider
+728,Manish,"Defender, right cover"
+771,Suresh Kumar,Raider
+796,Rinku Narwal,"Defender, left corner"
+365,Akshay Jadhav,Raider
+536,Ziaur Rahman,"Defender, left cover"
+204,Rakesh Narwal,Raider
+613,Sunil Siddhgavali,Raider
+665,Pankaj,All Rounder
+667,Elangeshwaran R,All Rounder
+696,M. Thivakaran,Raider
+784,Viraj Vishnu Landge,"Defender, left cover"
+772,More GB,Raider
+676,Santhapanaselvam,All Rounder
+837,Rakshith,Raider
+637,Neeraj Kumar,"Defender, right cover"
+121,Vikas Jaglan,Raider
+101,Santhosh B.S,"Defender, left corner"
+195,Ashish Chhokar,Raider
+710,N. Renjith,"Defender, left corner"
+735,Vishal,All Rounder
+736,Yatharth Deshwal,All Rounder
+301,Hadi Tajik,"Defender, right corner"
+661,Tapas Pal,All Rounder
+194,Joginder Singh Narwal,"Defender, left corner"
+689,Mohan Raman G,Raider
+694,Deepak Yadav,"Defender, right cover"
+732,Kuldeep Singh,All Rounder
+605,Shubham Ashok Palkar,Raider
+218,Sachin Kumar,"Defender, left corner"
+233,Manoj Dhull,"Defender, right corner"
+578,Mayur Shivtarkar,All Rounder
+738,Rahul Choudhary,Raider
+768,Vijay Kumar,"Defender, left corner"
+741,Vikash,All Rounder
+751,Gurvinder Singh,"Defender, left cover"
+360,Sanket Chavan,"Defender, left corner"
+730,Rohit,Raider
+746,Vikrant,Raider
+776,Muruthu M,"Defender, right cover"
+790,Satish,"Defender, right corner"
+792,Tushar Balaram Bhoir,"Defender, right cover"
+640,Sanoj Kumar,"Defender, left cover"
+647,Gulveer Singh,Raider
+660,Bhavani Rajput,Raider
+690,E Subash,All Rounder
+712,Rohit Kumar,"Defender, right cover"
+519,Young Chang Ko,"Defender, left cover"
+392,Kuldeep,Raider
+370,Ravindra Ramesh Kumawat,All Rounder
+386,Anil Kumar,"Defender, left corner"
+266,David Shilisia J Mosambayi,Raider
+279,Shashank Wankhede,"Defender, left cover"
+726,Babu M,"Defender, left cover"
+774,Munish,Raider
+765,Anil Kumar,Raider
+384,Ravinder Kumar,"Defender, right corner"
+513,Yong Joo Ok,All Rounder
+705,Ajvender Singh,Raider
+580,Vishnu Uthaman,Raider
+2296,Naveen Kumar,Raider
+2026,Siddharth Sirish Desai,Raider
+763,Manjeet,Raider
+484,Mohammad Esmaeil Nabibakhsh,All Rounder
+2028,Abhishek Singh,Raider
+2024,Arjun Deshwal,Raider
+2661,Pankaj Mohite,Raider
+2508,V. Ajith Kumar,Raider
+2488,Vinay,Raider
+2357,Naveen,Raider
+2330,Sumit,"Defender, left corner"
+115,Suraj Desai,Raider
+621,Baldev Singh,"Defender, right corner"
+2670,Saurabh Nandal,"Defender, left corner"
+2286,Surender Gill,Raider
+571,Mohammad Esmaeil Maghsoudlou Mahalli,Raider
+2462,Sunil,"Defender, right corner"
+376,Athul MS,Raider
+794,Amit Sheoran,Defender
+2485,Sonu Jaglan,Raider
+2291,Amit Kumar,Raider
+363,Sumit Singh,Raider
+2657,Ashu Singh,"Defender, right cover"
+2492,Jadhav Balasaheb Shahaji,"Defender, right cover"
+2020,Amit,"Defender, left cover"
+2290,Rajnish,Raider
+2479,Shubham Shinde,"Defender, right corner"
+2475,Ajinkya Ashok Pawar,Raider
+2502,Mohit Sehrawat,"Defender, right cover"
+684,Rakesh Gowda,Raider
+2672,Sumit Malik,"Defender, left corner"
+2512,Ajeet,"Defender, right cover"
+2486,Harendra Kumar,"Defender, left cover"
+214,Amit Kumar,Raider
+2667,Ankit,"Defender, right corner"
+2498,Sushil Gulia,Raider
+2494,Sachin Narwal,All Rounder
+2496,Pavan T. R.,"Defender, right cover"
+2503,Banty,Raider
+2298,Armaan,All Rounder
+2659,Sagar,"Defender, right corner"
+2660,Sushant Sail,Raider
+2682,Amit Kumar,All Rounder
+481,Saeid Ghaffari,"Defender, left cover"
+2322,Ankit Beniwal,Raider
+2325,Anand,Raider
+2321,Ankush,Raider
+2023,Ruturaj Shivaji Koravi,Defender
+2316,Azad Singh,Raider
+2471,Ankit,Defender
+2504,Ashish,Raider
+2514,Chand Singh,"Defender, left corner"
+2507,Amit Kumar,All Rounder
+2665,Elavarasan A,"Defender, left cover"
+2666,Harmanjit Singh,Raider
+2478,Purna Singh,Raider
+2463,Parveen,"Defender, left cover"
+274,Krushna Madane,Defender
+2470,Adarsh T,"Defender, left corner"
+2644,Ravinder,All Rounder
+2683,Palle Mallikarjun,Raider
+2669,Balram,All Rounder
+2474,Aman Kadian,Raider
+2318,Arun Kumar HN,Raider
+2353,Ajay,Defender
+2306,Lalit Chaudhary,Raider
+2307,Kamal Singh,Raider
+509,Mohammad Taghi Paein Mahali,Raider
+2257,Victor Onyango Obiero,All Rounder
+2025,Ajinkya Rohidas Kapre,All Rounder
+2376,Emad Sedaghatnia,Raider
+2515,Vikas Chhillar,Raider
+2506,M. Abishek,"Defender, right cover"
+2489,Satywan,"Defender, left cover"
+2481,Ponparthiban Subramanian,"Defender, right cover"
+2671,Naveen Narwal,"Defender, right cover"
+2501,Aman,"Defender, left corner"
+778,Narender,All Rounder
+2476,Amit Kumar,Raider
+232,Sachin Vittala,"Defender, left corner"
+371,Amit Nagar,Raider
+2274,C Manoj Kumar,"Defender, left cover"
+786,Parvesh,Raider
+731,Sandeep,All Rounder
+644,Anand Surendra Tomar,Raider
+2278,Bhanu Pratap Tomar,Raider
+2266,Mahesh Maruti Magdum,All Rounder
+2336,Anuj Kumar,"Defender, right cover"
+2315,Bhuvneshwar Gaur,Raider
+608,Prateek,All Rounder
+2314,Dharmender,Raider
+2328,Sudhanshu Tyagi,"Defender, right cover"
+599,Lokesh Kaushik,Raider
+2021,Anand V,Raider
+2262,Md. Masud Karim,Raider
+2302,Mithin Kumar,Raider
+2335,Vimal Raj V,All Rounder
+2313,Gaurav Kumar,Raider
+793,Amit Kharb,"Defender, right cover"
+698,Vishav Chaudhary,"Defender, left cover"
+708,N. Shiva Ramakrishna,All Rounder
+74,Nithesh B R,"Defender, right corner"
+2351,Vikram Kandola,"Defender, left cover"
+2482,Aashish Nagar,"Defender, right corner"
+391,S Mahalingam,All Rounder
+380,Vikash Kumar,Raider
+210,Sunny,Raider
+367,Nitin Kumar,All Rounder
+364,Ajay Singh,"Defender, left corner"
+373,Parveen Narwal,All Rounder
+248,Sandeep Kandola,"Defender, left corner"
+171,Pradeep Kumar,Raider
+182,Dinesh Kumar,All Rounder
+243,Sanjay Kumar,All Rounder
+180,Kedar Lal,Raider
+235,Vijender Singh,"Defender, left corner"
+267,Amit Kumar Tomar,Raider
+246,Harvinder Singh,"Defender, right cover"
+244,Ravi V.,Raider
+178,Parveen M. Jangra,"Defender, left cover"
+208,Varinder Singh,"Defender, left cover"
+260,Vijay Malik,Raider
+223,Rajeev Kumar,"Defender, left corner"
+250,Hyunil Park,All Rounder
+225,Sandeep Tomar,Raider
+241,Ravit Kumar,Raider
+205,Sandeep Malik,"Defender, left corner"
+206,Aman Kumar,"Defender, left cover"
+221,Anoop E.V.,Raider
+224,Inderpal Bishnoi,Raider
+237,Amit Kumar,All Rounder
+199,Kazuhiro Takano,All Rounder
+201,Adinath Sakharam Gavali,"Defender, right and left cover"
+239,Jishnu,"Defender, right cover"
+638,Kamal Kishor Jat,Raider
+149,Kiran A,Defender
+777,Pardeep Kandola,"Defender, right corner"
+620,C Kalai Arasan,Defender
+247,Anil Singh,"Defender, right corner"

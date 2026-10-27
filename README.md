@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Pandas](https://img.shields.io/badge/pandas-2.0+-150458.svg)](https://pandas.pydata.org/)
 [![Status](https://img.shields.io/badge/Status-Data%20Cleaning%20Complete-brightgreen.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adarshgaurav1951/Kabaddi-Matches-EDA/blob/main/notebooks/Kabaddi_Matches_EDA_Colab.ipynb)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://localhost:8501)
+[![Host Dashboard](https://img.shields.io/badge/Host%20Dashboard-localhost%3A8501-FF4B4B?style=flat&logo=streamlit&logoColor=white)](http://localhost:8501)
 
 > **Turning granular, event-level Kabaddi play-by-play logs into tactical, data-backed sports analytics.**
 
@@ -113,7 +116,7 @@ Start the real-time interactive dashboard:
 ```bash
 streamlit run app.py
 ```
-Open **`http://localhost:8501`** in your browser. You can explore the built-in PKL datasets or **drag & drop any Kabaddi CSV file** to get instant interactive visualizations!
+Open **[http://localhost:8501](http://localhost:8501)** in your browser or click [![Host Dashboard](https://img.shields.io/badge/Open%20Dashboard-localhost%3A8501-FF4B4B?style=flat&logo=streamlit&logoColor=white)](http://localhost:8501). You can explore the built-in PKL datasets or **drag & drop any Kabaddi CSV file** to get instant interactive visualizations!
 
 ---
 

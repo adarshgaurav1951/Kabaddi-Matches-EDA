@@ -19,6 +19,9 @@ Kabaddi matches generate hundreds of micro-events (raids, touches, bonus points,
 
 This project establishes a reproducible, deterministic end-to-end data pipeline to clean, enrich, analyze, and visualize professional Kabaddi match data (Pro Kabaddi League Seasons 1–7 and international tournaments).
 
+### 🔄 End-to-End Architectural Pipeline
+![Project Workflow Pipeline](visuals/05_project_workflow_pipeline.png)
+
 ---
 
 ## 📂 2. Repository Structure
@@ -133,7 +136,33 @@ Click the badge below to open the notebook directly in Google Colab:
 
 ---
 
-## 🎯 6. Analytical Roadmap & Key Questions
+## 📈 6. Visual Analytics & Insights Gallery
+
+### 1. Tactical Matrix: Raid Power vs. Defensive Wall
+![Team Tactical Matrix](visuals/01_team_tactical_matrix.png)
+> *Franchises mapped into tactical quadrants based on average raid points scored vs. tackle points conceded. Circle size indicates total All-Outs inflicted, and color maps to average match score.*
+
+---
+
+### 2. Raider Efficiency: Points vs. Strike Rate (PPR)
+![Top Raiders Efficiency](visuals/02_top_raiders_efficiency.png)
+> *Leaderboard of top Pro Kabaddi raiders benchmarked by career scoring volume, raid strike rate (%), and Points Per Raid (PPR).*
+
+---
+
+### 3. Defensive Dominance: Tackle Volume & Conversion Rate
+![Top Defenders Tackles](visuals/03_top_defenders_tackles.png)
+> *Analysis of defensive wall anchors, displaying successful raider captures vs. broken tackles and tackle win conversion rates.*
+
+---
+
+### 4. Match Momentum & Clutch Margin Barrier
+![Clutch Margins Distribution](visuals/04_clutch_margins_distribution.png)
+> *Over 25% of all PKL matches are decided by 5 or fewer points, underscoring the critical impact of do-or-die raids and late-game clock management.*
+
+---
+
+## 🎯 7. Analytical Roadmap & Key Questions
 | # | Analytical Question | Deliverable Stage |
 |---|---|---|
 | 1 | Who are the top raiders and defenders by points vs. efficiency? | `02_features` & `03_eda` |
